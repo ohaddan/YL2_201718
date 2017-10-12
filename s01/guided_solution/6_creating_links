@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+    <title>CRAZY about Justin Bieber!</title>
+</head>
+<body>
+    <h1>I wish I was Justin!</h1>
+    My favorite pet is a beaver.
+    <h2>Favorite food</h2>
+    I like making bonfire marshmallow :)
+
+    </br>
+    <table border="1">
+        <tr>
+            <th>
+                My favorite beverages are:
+            </th>
+            <th>
+                <ul>
+                    <li>Coffee</li>
+                    <li>Tea</li>
+                </ul>
+            </th>
+        </tr>
+        <tr>
+            <th>
+                My favorite superheroes are:
+            </th>
+            <th>
+            <ol>
+                    <li>Deadpool</li>
+                    <li>Dr. strange</li>
+                </ol>
+                <img src="http://bit.do/pretty_image_for_meet_html" height="80" width="80">
+            </th>
+        </tr>
+        <tr>
+            <th>
+                <a href="other_page.html">Go to other page</a>
+            </th>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+<!--***********************-->
+<!--Code for the other page-->
+<!--***********************-->
+<!DOCTYPE html>
+<head>
+    <title>CRAZY about Justin Bieber!</title>
+</head>
+<body>
+<a href="guided_solution.html">Go to other page</a>
+</body>
+</html>
