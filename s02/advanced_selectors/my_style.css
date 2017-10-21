@@ -1,0 +1,34 @@
+h1{
+    font-size: 50pt; 
+    text-transform: uppercase
+}
+
+p{
+    align-content: center;
+    background: blue
+}
+
+img{
+    border-radius: 20%;
+    width: 30%; 
+    height: 30%
+}
+
+body{
+    font-family: Arial;
+    background-image: url("https://goo.gl/9EtBc6");
+}
+
+.carrot{
+    color: orange;
+}
+
+#bugs{
+    text-decoration: underline;
+}
+
+#bunny{
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center
+}
