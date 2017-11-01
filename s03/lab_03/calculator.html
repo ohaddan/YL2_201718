@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+
+        // Define constants
+        var DIVISION = '/'; var MULTIPLICATION = '*'; var SUMMATION = '+'; var SUBTRACTION = '-';
+
+        // Get user input
+        var num1 = prompt("Insert first number", "");
+        var num2 = prompt("Insert second number", "");
+        var operation = prompt("What operation should I calculate?", "+ - * /");
+        var result;
+
+        //Implement calculator
+        if (operation==DIVISION){
+            result = num1/num2;
+        }
+        else if(operation==MULTIPLICATION) {
+            result = num1*num2;
+        }
+        else if(operation==SUMMATION) {
+            result = num1+num2;
+        }
+        else if(operation==SUBTRACTION) {
+            result = num1-num2;
+        }
+
+        // Output to user
+        alert('The result is: ' + result);
+
+    </script>
+</head>
+<body>
+
+
+</body>
+</html>
